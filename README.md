@@ -20,14 +20,14 @@ Begin by cloning the project repository to your local machine using the followin
 
 ```git clone https://github.com/Rock0007/Node-js.git```
 
-# Install Dependencies
+### Install Dependencies
 ```npm install```
 
-# Organize Your Source Code
+### Organize Your Source Code
 
 Copy your Node.js source code and paste it into the ```app.js``` file, located in the root folder of the project.
 
-# Run Your Application
+### Run Your Application
 
 To start your Node.js application, use one of the following commands based on your environment:
 ```npm start``` or ```npm run dev``` or ```nodemon app.js```
